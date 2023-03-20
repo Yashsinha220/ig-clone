@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2a255ffd-b86a-48b2-b1af-ee26cae4b336"
+      }
+    },
+    "owner": "samaaro"
   }
 }
